@@ -304,7 +304,7 @@ function Contacts() {
                                 >
                                     <FaInstagram aria-label='Instagram' />
                                 </a>
-                            )}*/}
+                            )}*//*}
                             {socialsData.medium && (
                                 <a
                                     href={socialsData.medium}
@@ -315,7 +315,7 @@ function Contacts() {
                                     <FaMediumM aria-label='Medium' />
                                 </a>
                             )}
-                            {/*
+                            {*//*
                             {socialsData.blogger && (
                                 <a
                                     href={socialsData.blogger}
