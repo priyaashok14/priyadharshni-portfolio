@@ -3,6 +3,10 @@
   "name": "portflio",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^7.16.0"
+}
+
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
